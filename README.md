@@ -50,10 +50,10 @@ Studied the design and came up with a plan for the HTML structure, the CSS class
 
 ### What I learned
 
-I originally used a div with a nested span for the each rating component. I then changed this to use a html form with a button input for each rating button, and a submit input for the button. I felt tis worked better.
+I originally used a div with a nested span for the each rating component. I then changed this to use a html form with a button input for each rating button, and a submit input for the button. I felt this worked better.
 
 ```html
-revised html forms
+I revised html forms
 
 <form class="card-start__form">
   <input type="button" value="1" />
@@ -67,7 +67,7 @@ revised html forms
 
 ```js
 
-I used following js code tp add an event listener to each input. querySelectorAll returned a nodelist which I iterated through like an array using forEach().
+I used following js code to add an event listener to each input. querySelectorAll returned a nodelist which I iterated through like an array using forEach().
 
 const inputs = document.querySelectorAll("input[type=button");
 
