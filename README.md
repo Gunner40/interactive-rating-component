@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [[Add solution URL here](https://github.com/Gunner40/interactive-rating-component)](https://your-solution-url.com)
+- Live Site URL: [[Add live site URL here](https://gunner40.github.io/interactive-rating-component/)](https://your-live-site-url.com)
 
 ## My process
 
